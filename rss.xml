@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Albatros ARC 2015]]></title>
         <description><![CDATA[Albatros ARC 2015]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/albatros-arc-2015/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 14:05:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 14:08:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/albatros-arc-2015/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ARC Finish line]]></title>
-            <description><![CDATA[<article><h1>ARC Finish line</h1><p>This is the Albatros, Albatros, Albatros. ARC finishing line, we are approaching Pigeon Island.  Best words ever uttered. We are number 18 of the ARC, that includes the racing group, the multihull and the cruisers. Number 6 in our group, defying a broken spi boom and a ripped main halyard. Arriving at 4:34:02 local time we are incredibly happy to be welcomed in Saint Lucia with rum punch and a smile.  I dare not go on land. We are all very sentimental. The trip has been amazing, and challenging on levels yet to be reflected upon.   This is the Albatros, Albatros, Albatros.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d450dfd1-8c8d-4c59-a1b5-0439a3248a04.jpg"></article>]]></description>
-            <link>undefinedarc-finish-line/index.html</link>
+            <description><![CDATA[<article><h1>ARC Finish line</h1><p>This is the Albatros, Albatros, Albatros. ARC finishing line, we are approaching Pigeon Island.  Best words ever uttered. We are number 18 of the ARC, that includes the racing group, the multihull and the cruisers. Number 6 in our group, defying a broken spi boom and a ripped main halyard. Arriving at 4:34:02 local time we are incredibly happy to be welcomed in Saint Lucia with rum punch and a smile.  I dare not go on land. We are all very sentimental. The trip has been amazing, and challenging on levels yet to be reflected upon.   This is the Albatros, Albatros, Albatros.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a3e2e14b3ef00419914c9647c530d7b0893045.jpg"></article>]]></description>
+            <link>https://thegrid.ai/albatros-arc-2015/arc-finish-line/index.html</link>
             <guid isPermaLink="false">90ba14bf-72d0-414c-bd42-ad262e183ea8</guid>
-            <pubDate>Tue, 05 Jan 2016 14:05:05 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 14:08:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
