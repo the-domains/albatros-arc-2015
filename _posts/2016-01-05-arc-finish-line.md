@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-05T14:05:05.002Z'
-dateModified: '2016-01-05T14:04:46.798Z'
+datePublished: '2016-01-05T14:08:00.196Z'
+dateModified: '2016-01-05T14:07:53.643Z'
 author: []
 title: ARC Finish line
 authors: []
