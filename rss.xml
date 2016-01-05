@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Albatros ARC 2015]]></title>
+        <description><![CDATA[Albatros ARC 2015]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 14:05:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ARC Finish line]]></title>
+            <description><![CDATA[<article><h1>ARC Finish line</h1><p>This is the Albatros, Albatros, Albatros. ARC finishing line, we are approaching Pigeon Island.  Best words ever uttered. We are number 18 of the ARC, that includes the racing group, the multihull and the cruisers. Number 6 in our group, defying a broken spi boom and a ripped main halyard. Arriving at 4:34:02 local time we are incredibly happy to be welcomed in Saint Lucia with rum punch and a smile.  I dare not go on land. We are all very sentimental. The trip has been amazing, and challenging on levels yet to be reflected upon.   This is the Albatros, Albatros, Albatros.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d450dfd1-8c8d-4c59-a1b5-0439a3248a04.jpg"></article>]]></description>
+            <link>undefinedarc-finish-line/index.html</link>
+            <guid isPermaLink="false">90ba14bf-72d0-414c-bd42-ad262e183ea8</guid>
+            <pubDate>Tue, 05 Jan 2016 14:05:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
